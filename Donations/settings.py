@@ -139,7 +139,7 @@ EMAIL_USE_SSL = False  # Don't use SSL
 
 # Authentication Credentials
 EMAIL_HOST_USER = 'donations4keraza@gmail.com'  # Replace with your email address
-EMAIL_HOST_PASSWORD = 'robn lrkz oked rrsu'  # Replace with your email password
+ 
 
 # Default From Email (optional)
 DEFAULT_FROM_EMAIL = 'fadyraouf350@gmail.com'  # Replace with your email address
